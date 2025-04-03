@@ -6,12 +6,6 @@ This repository contains the SQL script to create and populate the **Charity Ser
 - [Overview](#overview)
 - [Setup](#setup)
 - [Implementation Examples](#implementation-examples)
-  - [PHP](#php)
-  - [Java](#java)
-  - [C++](#cpp)
-  - [Python](#python)
-  - [C#](#c)
-  - [Kotlin](#kotlin)
 - [License](#license)
 
 ## Overview
@@ -24,3 +18,27 @@ The Charity Service Database is designed to manage charity service data such as 
    ```sh
    git clone https://github.com/Tharindu714/Charity-service-database.git
    cd charity-service-db
+   ```
+2. **Import the SQL script::**
+
+🚀 Open your MySQL client (MySQL Workbench, phpMyAdmin, or command line).
+🚀 Run the following command:
+```sh
+SOURCE path/to/charity-service_db.sql;
+```
+🚀 This will create the database and tables required for the Charity Service system.
+
+## Implementation Examples
+🚀 Below are sample code files demonstrating how to connect to and interact with the Charity Service Database in several programming languages.
+
+✅ How to Implement Database in PHP >> [PHP Implementation](https://github.com/Tharindu714/Charity-service-database/blob/main/database.php)
+<br>
+✅ How to Implement Database in Java >> [Java Implementation](https://github.com/Tharindu714/Charity-service-database/blob/main/DatabaseConnector.java)
+<br>
+✅ How to Implement Database in C++ >>  [C++ Implementation](https://github.com/Tharindu714/Charity-service-database/blob/main/database.cpp)
+<br>
+✅ How to Implement Database in Python >> [Python Implementation](https://github.com/Tharindu714/Charity-service-database/blob/main/database.py)
+<br>
+✅ How to Implement Database in C# >> [C# Implementation](https://github.com/Tharindu714/Charity-service-database/blob/main/DatabaseHandler.cs)
+<br>
+✅ How to Implement Database in Kotlin >> [Kotlin Implementation](https://github.com/Tharindu714/Charity-service-database/blob/main/DatabaseConnector.kt)
