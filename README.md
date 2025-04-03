@@ -42,3 +42,10 @@ SOURCE path/to/charity-service_db.sql;
 ✅ How to Implement Database in C# >> [C# Implementation](https://github.com/Tharindu714/Charity-service-database/blob/main/DatabaseHandler.cs)
 <br>
 ✅ How to Implement Database in Kotlin >> [Kotlin Implementation](https://github.com/Tharindu714/Charity-service-database/blob/main/DatabaseConnector.kt)
+
+## License
+This project is licensed under the [Apache 2.0 License](https://github.com/Tharindu714/Charity-service-database/blob/main/LICENSE).
+
+✅ Each code sample is contained in its own file (as indicated by the file names) and demonstrates how to connect to your Charity Service Database in the respective language. Adjust connection parameters as needed. Enjoy and happy coding!
+
+
